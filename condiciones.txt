@@ -1,0 +1,195 @@
+### Código: 1000
+- **Día:** Soleado
+- **Noche:** Despejado
+
+### Código: 1003
+- **Día:** Parcialmente nublado
+- **Noche:** Parcialmente nublado
+
+### Código: 1006
+- **Día:** Nublado
+- **Noche:** Nublado
+
+### Código: 1009
+- **Día:** Cubierto
+- **Noche:** Cubierto
+
+### Código: 1030
+- **Día:** Neblina
+- **Noche:** Neblina
+
+### Código: 1063
+- **Día:** Ligeras precipitaciones
+- **Noche:** Ligeras precipitaciones
+
+### Código: 1066
+- **Día:** Nieve ligera
+- **Noche:** Nieve ligera
+
+### Código: 1069
+- **Día:** Aguanieve ligera
+- **Noche:** Aguanieve ligera
+
+### Código: 1072
+- **Día:** Llovizna helada ligera
+- **Noche:** Llovizna helada ligera
+
+### Código: 1087
+- **Día:** Tormentas eléctricas con lluvia ligera
+- **Noche:** Tormentas eléctricas con lluvia ligera
+
+### Código: 1114
+- **Día:** Ventisca ligera
+- **Noche:** Ventisca ligera
+
+### Código: 1117
+- **Día:** Ventisca
+- **Noche:** Ventisca
+
+### Código: 1135
+- **Día:** Niebla
+- **Noche:** Niebla
+
+### Código: 1147
+- **Día:** Niebla helada
+- **Noche:** Niebla helada
+
+### Código: 1150
+- **Día:** Llovizna ligera
+- **Noche:** Llovizna ligera
+
+### Código: 1153
+- **Día:** Llovizna
+- **Noche:** Llovizna
+
+### Código: 1168
+- **Día:** Llovizna helada ligera
+- **Noche:** Llovizna helada ligera
+
+### Código: 1171
+- **Día:** Llovizna helada
+- **Noche:** Llovizna helada
+
+### Código: 1180
+- **Día:** Lluvia ligera irregular
+- **Noche:** Lluvia ligera irregular
+
+### Código: 1183
+- **Día:** Lluvia ligera
+- **Noche:** Lluvia ligera
+
+### Código: 1186
+- **Día:** Lluvia moderada irregular
+- **Noche:** Lluvia moderada irregular
+
+### Código: 1189
+- **Día:** Lluvia moderada
+- **Noche:** Lluvia moderada
+
+### Código: 1192
+- **Día:** Lluvia fuerte irregular
+- **Noche:** Lluvia fuerte irregular
+
+### Código: 1195
+- **Día:** Lluvia fuerte
+- **Noche:** Lluvia fuerte
+
+### Código: 1198
+- **Día:** Lluvia helada ligera
+- **Noche:** Lluvia helada ligera
+
+### Código: 1201
+- **Día:** Lluvia helada
+- **Noche:** Lluvia helada
+
+### Código: 1204
+- **Día:** Aguanieve ligera
+- **Noche:** Aguanieve ligera
+
+### Código: 1207
+- **Día:** Aguanieve
+- **Noche:** Aguanieve
+
+### Código: 1210
+- **Día:** Nieve ligera
+- **Noche:** Nieve ligera
+
+### Código: 1213
+- **Día:** Nieve moderada
+- **Noche:** Nieve moderada
+
+### Código: 1216
+- **Día:** Nieve fuerte
+- **Noche:** Nieve fuerte
+
+### Código: 1219
+- **Día:** Nevada
+- **Noche:** Nevada
+
+### Código: 1222
+- **Día:** Nevada intensa
+- **Noche:** Nevada intensa
+
+### Código: 1225
+- **Día:** Nevada muy intensa
+- **Noche:** Nevada muy intensa
+
+### Código: 1237
+- **Día:** Granizo
+- **Noche:** Granizo
+
+### Código: 1240
+- **Día:** Lluvia ligera irregular
+- **Noche:** Lluvia ligera irregular
+
+### Código: 1243
+- **Día:** Lluvia moderada irregular
+- **Noche:** Lluvia moderada irregular
+
+### Código: 1246
+- **Día:** Lluvia fuerte irregular
+- **Noche:** Lluvia fuerte irregular
+
+### Código: 1249
+- **Día:** Aguanieve ligera irregular
+- **Noche:** Aguanieve ligera irregular
+
+### Código: 1252
+- **Día:** Aguanieve moderada irregular
+- **Noche:** Aguanieve moderada irregular
+
+### Código: 1255
+- **Día:** Nieve ligera irregular
+- **Noche:** Nieve ligera irregular
+
+### Código: 1258
+- **Día:** Nieve moderada irregular
+- **Noche:** Nieve moderada irregular
+
+### Código: 1261
+- **Día:** Granizo ligero irregular
+- **Noche:** Granizo ligero irregular
+
+### Código: 1264
+- **Día:** Granizo moderado irregular
+- **Noche:** Granizo moderado irregular
+
+### Código: 1273
+- **Día:** Tormentas eléctricas con lluvia ligera
+- **Noche:** Tormentas eléctricas con lluvia ligera
+
+### Código: 1276
+- **Día:** Tormentas eléctricas con lluvia
+- **Noche:** Tormentas eléctricas con lluvia
+
+### Código: 1279
+- **Día:** Tormentas eléctricas con nieve ligera
+- **Noche:** Tormentas eléctricas con nieve ligera
+
+### Código: 1282
+- **Día:** Tormentas eléctricas con nieve
+- **Noche:** Tormentas eléctricas con nieve
+
+### Código: 1333
+- **Día:** Tormentas eléctricas con aguanieve moderada
+- **Noche:** Tormentas eléctricas con aguanieve moderada

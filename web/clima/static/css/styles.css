@@ -1,0 +1,40 @@
+body {
+    margin: 4mm;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center;
+    transition: background 0.5s ease-in-out;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+.form-container {
+    text-align: center;
+    margin: 2em 0;
+}
+
+form input, form button {
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 1em 0;
+}
+
+img {
+    vertical-align: middle;
+}

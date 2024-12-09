@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="form-container">
+    <form method="get">
+        <input type="text" name="ciudad" placeholder="Ciudad..." value="{{ ciudad }}">
+        <button type="submit">Consultar Clima</button>
+    </form>
+</div>
+
+{% if data.error %}
+    <p>{{ data.error }}</p>
+{% else %}
+    <h2>Clima en {{ data.clima_actual.ciudad }}, {{ data.clima_actual.pais }}</h2>
+    <p>Temperatura: {{ data.clima_actual.temperatura }}°C</p>
+    <p>Condiciones: {{ data.clima_actual.condiciones.descripcion }}</p>
+    <img src="https:{{ data.clima_actual.condiciones.icono }}" alt="Icono del clima">
+    <hr>
+    <h3>Pronóstico Extendido:</h3>
+    <ul>
+        {% for dia in data.pronostico %}
+            <li>
+                <strong>{{ dia.fecha }}</strong>: 
+                {{ dia.condiciones }} (Máx: {{ dia.temperatura.maxima }}°C, Mín: {{ dia.temperatura.minima }}°C)
+                <img src="https:{{ dia.icono }}" alt="Icono del clima">
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
+{% endblock %}
