@@ -56,6 +56,6 @@ Verás el clima actual y el pronóstico para los próximos 3 días.
 5. *Datos Avanzados*: Incluir información como la calidad del aire, niveles de polen y condiciones de visibilidad.
 
 ## *Capturas de pantalla*
-![Busqueda en Bogotá](imagen1.jpg)
+![Busqueda en Bogotá](imagen_1.jpg)
 
-![Busqueda en Auckland](imagen2.jpg)
+![Busqueda en Auckland](imagen_2.jpg)
