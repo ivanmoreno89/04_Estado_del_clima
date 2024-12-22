@@ -54,3 +54,9 @@ Verás el clima actual y el pronóstico para los próximos 3 días.
 3. *Integración con Mapas*: Mostrar el clima en un mapa interactivo para las ciudades seleccionadas, utilizando APIs como Google Maps.
 4. *Interfaz Avanzada*: Incorporar un diseño más dinámico.
 5. *Datos Avanzados*: Incluir información como la calidad del aire, niveles de polen y condiciones de visibilidad.
+
+## *Capturas de pantalla*
+
+![alt text](imagen1.jpg)
+
+![alt text](imagen2.jpg)
