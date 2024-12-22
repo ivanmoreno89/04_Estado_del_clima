@@ -28,24 +28,24 @@ Verás el clima actual y el pronóstico para los próximos 3 días.
 
 
 04_Estado_del_clima/
-├── app/                              # FastAPI (Backend)
-│   ├── __init__.py
-│   ├── main.py                       # Lógica principal de FastAPI
-├── web/                              # Django (Frontend)
-│   ├── web/                          # Configuración principal de Django
-│   │   ├── settings.py
-│   │   ├── urls.py                   # Rutas del proyecto Django
-│   ├── clima/                        # Aplicación Django
-│   │   ├── views.py                  # Lógica de las vistas
-│   │   ├── urls.py                   # Rutas específicas de la app
-│   │   ├── static/                   # Archivos estáticos (CSS, JS)
-│   │   │   └── css/
-│   │   │       └── styles.css
-│   ├── templates/                    # Plantillas HTML
-│   │   ├── base.html
-│   │   └── index.html
-├── requirements.txt                  # Dependencias del proyecto
-├── .env                              # Configuración de variables de entorno
+├── app/                              # FastAPI (Backend)  
+│   ├── __init__.py  
+│   ├── main.py                       # Lógica principal de FastAPI  
+├── web/                              # Django (Frontend)  
+│   ├── web/                          # Configuración principal de Django  
+│   │   ├── settings.py  
+│   │   ├── urls.py                   # Rutas del proyecto Django  
+│   ├── clima/                        # Aplicación Django  
+│   │   ├── views.py                  # Lógica de las vistas  
+│   │   ├── urls.py                   # Rutas específicas de la app  
+│   │   ├── static/                   # Archivos estáticos (CSS, JS)  
+│   │   │   └── css/  
+│   │   │       └── styles.css  
+│   ├── templates/                    # Plantillas HTML  
+│   │   ├── base.html  
+│   │   └── index.html  
+├── requirements.txt                  # Dependencias del proyecto  
+├── .env                              # Configuración de variables de entorno  
 
 
 ## *Mejoras Futuras*
